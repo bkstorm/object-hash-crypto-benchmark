@@ -1,0 +1,27 @@
+{
+  "name": "object-hash-crypto-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark result for object-hash and crypto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkstorm/object-hash-crypto-benchmark.git"
+  },
+  "author": "bkstorm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkstorm/object-hash-crypto-benchmark/issues"
+  },
+  "homepage": "https://github.com/bkstorm/object-hash-crypto-benchmark#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "object-hash": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
+}
